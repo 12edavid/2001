@@ -1,0 +1,41 @@
+body
+{ 
+  padding: 0;
+  margin: 0;
+  background-color:#000;
+}
+
+.text {
+  font-family: 'Dancing Script';
+  width: 70%;
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+  z-index:2;
+}
+
+.text small {
+  font-weight: 300;
+  font-size: 20px;
+  color:#555;
+  float: right;
+}
+
+.text p {
+  color: #fff;
+  font-family:'Oswald';
+  font-size: 35px;
+}
+
+.iloveu {
+  font-family: 'Dancing Script';
+  font-size:70px;
+  color: #fff;
+  width: 70%;
+  text-align: center;
+  margin-left: auto;
+  margin-right : auto;
+}
+
+#alx {
+}
